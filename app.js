@@ -11,5 +11,5 @@ function hasSeven(arr) {
 const numbers = [1, 2, 3, 4, 5, 6, 78, 9];
 console.log(hasSeven(numbers));
 
-const numbersWithoutSeven = [1, 2, 3, 4, 5, 6, 8, 9];
+const numbersWithoutSeven = [1, 2, 3, 4, 5, 6, 2, 9];
 console.log(hasSeven(numbersWithoutSeven));
